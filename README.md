@@ -24,7 +24,7 @@
 | 🌍 **Use Cases** | Audio signal processing, speech enhancement, noise reduction |
 
 ## 📐 Simulation & Testing
-| 🛠️ Real Assembly | 📜 Simulation  |
+| 🛠️ LTSpice Circuit | 📜 Simulation  |
 |-----------|-----------|
 | <img src="assets/img/assembly.png"> | <img src="assets/img/simulation.png"> |
 
