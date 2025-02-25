@@ -26,7 +26,7 @@
 ## 📐 Simulation & Testing
 | 📜 Simulation | 🛠️ Real Assembly |
 |-----------|-----------|
-| <img src="assets/img/simulation.png"> | <img src="assets/img/real_assembly.png"> |
+| <img src="assets/img/simulation.png"> | <img src="assets/img/assembly.png"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
