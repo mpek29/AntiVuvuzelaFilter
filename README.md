@@ -24,9 +24,9 @@
 | 🌍 **Use Cases** | Audio signal processing, speech enhancement, noise reduction |
 
 ## 📐 Simulation & Testing
-| 📜 Simulation | 🛠️ Real Assembly |
+| 🛠️ Real Assembly | 📜 Simulation  |
 |-----------|-----------|
-| <img src="assets/img/simulation.png"> | <img src="assets/img/assembly.png"> |
+| <img src="assets/img/assembly.png"> | <img src="assets/img/simulation.png"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
